@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_7d8539c7d0f59a028641d238872adb56a76f4d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/libs/httpcore-4.3-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a293723fe90abe781acb4efaacaecdf2108f346d">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/httpcore-4.3-beta1_fdf63f9427d432268b3609fff09775ce8cac2523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/51392ff3e7c7b42fd6f2e86c0f87a81789aa9fc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_e4afd7924dbd47fa420d5ee5aee7e48ada9c6a5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/6567b4bc5f24cdb7a1ca11862a5dcfc575efbeab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_de6188f0ee294ed93623d31ca171cd67bc7197fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/4156e2dd668dbd7302e2d607b555899973f723df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_da3cd3d70838fcbd5e0e9e2e4013fce1351ba54c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/5745b5a89953b2e6798011f29015d7446b14aeab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_5244bf2dc4bb5b6ed2ded0314d54546907b21add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/980a81ec3d25ce902a6cdd006e7a483ce419e42c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_4e8e35d28d8bb3bb0bebbcd9ef4013043f2d875f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/e780e33c40e2b12b5f74b9fcbac802eb5c486c7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_5a85c7965a1aa33f733862074cfe540033c3fff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/libs/httpclient-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18f4247ff4572a074444572cee34647c43e7c9c7">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/httpclient-4.3.3_25bb1466f3753d45b4942b9507c6ff1d57d27ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/19b760f00ac18c0623f5467e3fa7c95d0f9b6f96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_2e21fb489c8e45f15cd2d13226d3c00991ad8be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/2c7d63b504b6faabea44f383b70d0625228dc392/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/classes_6701fc6c8ea92119dcd883828103c480ccd93207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobiledeveloper/.android/build-cache/4156e2dd668dbd7302e2d607b555899973f723df/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mobiledeveloper/Documents/Work/Android/Nudge/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_4c7b52dd95950ed7050b2eb6b9b9e46e402660ed.jar" />
+    </item>
+
+</items>
